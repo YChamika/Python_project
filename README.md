@@ -279,7 +279,7 @@ plt.show()
 - The median salaries increase with the seniority and specialization of the roles. Senior roles (Senior Data Scientist, Senior Data Engineer) not only have higher median salaries but also larger differences in typical salaries, reflecting greater variance in compensation as responsibilities increase.
 
 ---
-## 4. What are the most optimal skills to learn for Data Analysts?
+# 4. What are the most optimal skills to learn for Data Analysts?
 
 To identify the most optimal skills to learn ( the ones that are the highest paid and highest in demand) I calculated the percent of skill demand and the median salary of these skills. To easily identify which are the most optimal skills to learn. 
 
