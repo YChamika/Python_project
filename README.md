@@ -155,7 +155,7 @@ plt.show()
 
 #  Analysis 2 – Skill Trend Over Time
 
-Notebook: [`3_skill_trend.ipynb`](3_project\3_skill_trend.ipynb)
+Notebook: [`3_skill_trend.ipynb`](3_project/3_skill_trend.ipynb)
 
 ##  Objective
 Analyze how skill demand changes monthly for Data Analyst roles.
@@ -223,7 +223,7 @@ plt.show()
 
 #  Analysis 3 – Salary Distribution
 
-Notebook: [`4_salary_analysis.ipynb`](3_project\4_salary_analysis.ipynb)
+Notebook: [`4_salary_analysis.ipynb`](3_project/4_salary_analysis.ipynb)
 
 ##  Objective
 Compare salary distributions among top data job roles.
@@ -283,7 +283,7 @@ plt.show()
 
 To identify the most optimal skills to learn ( the ones that are the highest paid and highest in demand) I calculated the percent of skill demand and the median salary of these skills. To easily identify which are the most optimal skills to learn. 
 
-View my notebook with detailed steps here: [5_Optimal_Skills](3_project\5_optimal_skills.ipynb).
+View my notebook with detailed steps here: [5_Optimal_Skills](3_project/5_optimal_skills.ipynb).
 
 #### Visualize Data
 
